@@ -8,39 +8,39 @@ img{
   object-fit: cover;
 }
 
-.gallery_box .page{ width:33%; max-width: 100% ; display: inline-flex; float: left; text-align: center; vertical-align: middle; overflow: hidden; object-fit: cover;   position: relative;}
-.gallery_box{ padding:0;display: flow-root;}
+.page{ width: auto; max-width: 100% ; display: inline-flex; float: left; text-align: center; vertical-align: middle; overflow: hidden; object-fit: cover;   position: relative;}
+{ padding:0;display: flow-root;}
 
-.gallery_box .page:hover img {
+.page:hover img {
     -moz-transform: scale(1.1);
     -webkit-transform: scale(1.1);
     -ms-transform: scale(1.1);
     -o-transform: scale(1.1);
     transform: scale(1.1);
 }
-.gallery_box .page img{
+.page img{
   -webkit-transition: transform 0.5s ease;
     -o-transition: transform 0.5s ease;
     transition: transform 0.5s ease;
 }
-.gallery_box .page:nth-child(even) {
+.page:nth-child(even) {
     height: 438px;
 }
-.gallery_box .page:nth-child(odd) {
+.page:nth-child(odd) {
     height: 438px; 
 }
-.gallery_box .page:nth-child(odd) .box_data{ background:rgba(0,0,0,0.17) }
-.gallery_box .page:nth-child(even) .box_data{ background:rgba(0,44,255,0.27) }
-.gallery_box .box_data{ position:absolute; top: 0; left: 0; right:0; bottom:0; color:#fff;}
-.gallery_box .box_data span{ position:absolute; top: 50%; transform: translateY(-50%); left:0 ; right:0; font-size:24px;}
-.gallery_box .page:hover .box_data{ background:rgba(255,0,39,0.55)}
+.page:nth-child(odd) .box_data{ background:rgba(0,0,0,0.17) }
+.page:nth-child(even) .box_data{ background:rgba(0,44,255,0.27) }
+.box_data{ position:absolute; top: 0; left: 0; right:0; bottom:0; color:#fff;}
+.box_data span{ position:absolute; top: 50%; transform: translateY(-50%); left:0 ; right:0; font-size:24px;}
+.page:hover .box_data{ background:rgba(255,0,39,0.55)}
 </style>
 
-<div class="gallery_box row">
+<div class="row">
   {% assign counter = 0 %}
   {% for post in paginator.posts %}
   <div class="col-sm align-items-center page">
-    <a href="{{ site.baseurl }}{{ post.url }}"><img src="https://picsum.photos/600/70{{ counter }}/?random"  style="object-fit: cover;">
+    <a href="{{ site.baseurl }}{{ post.url }}"><img src="https://picsum.photos/400/70{{ counter }}/?random"  style="object-fit: cover;">
     <div class="box_data">
       <span>{{ post.title }}</span>
     </div></a>

@@ -7,3 +7,9 @@
 如何添加新内容？
 
 [创建一个issue](https://github.com/NodeBE4/art/issues/new/choose)，按照要求填写内容，提交后由系统自动创建。
+
+数据
+- [游戏](/data/games.json)
+- [音乐](/data/musics.json)
+- [影视](/data/movies.json)
+- [书籍](/data/books.json)

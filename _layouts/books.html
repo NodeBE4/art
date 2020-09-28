@@ -10,7 +10,22 @@ comments: true
 
 <hr>
 <div class="row">
-  <div class="col-12 col-md-12">
+  <div class="col-12 col-md-6">
+    <h4>添加新书籍</h4>
+    <p style="color: #566573;font-size: 12px;">提示：提交或投票成功或需approve批准no script弹出的警告。</p>
+    <form id="add-hero-form" action="https://hero-form.vercel.app/api/artsubmit" method="post" target="_blank">
+      <div class="form-group">
+        <input name="category" type="hidden" value="book">
+        <input name="book" type="text" placeholder="书名" style="display:table-cell; width:100%; max-width: 600px;">
+        <input name="publisher" type="text" placeholder="出版社" style="display:table-cell; width:100%; max-width: 600px;">
+        <input name="author" type="text" placeholder="作者" style="display:table-cell; width:100%; max-width: 600px;"><br>
+        <input name="isbn" type="text" placeholder="ISBN" style="display:table-cell; width:100%; max-width: 600px;"><br>
+        <textarea name="reason" style="width: 100%; max-width: 600px; height: 100px;" placeholder="推荐理由 或类别 支持markdown..."></textarea>
+        <div><input type="submit" value="提交"/></div>
+      </div>
+    </form>
+  </div>
+  <div class="col-12 col-md-6">
     {{ content }} 
   </div>
 </div>

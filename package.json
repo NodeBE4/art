@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/duty-machine/chinadigitaltimes-latest#readme",
   "dependencies": {
+    "@octokit/rest": "^18.0.4",
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "node-fetch": "^2.6.1",

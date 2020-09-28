@@ -1,14 +1,20 @@
 [
     {
-        "music":"<p>中国孩子<\/p>",
-        "author":"周云蓬",
-        "year":"2007",
-        "status":"<p><a href=\"https:\/\/music.douban.com\/subject\/2121986\/\">仅登录可见<\/a><\/p>"
+        "music": "<p>中国孩子</p>",
+        "author": "周云蓬",
+        "year": "2007",
+        "status": "<p><a href=\"https://music.douban.com/subject/2121986/\">仅登录可见</a></p>"
     },
     {
-        "music":"<p><a href=\"https:\/\/zh.wikipedia.org\/wiki\/%E9%81%94%E6%98%8E%E4%B8%80%E6%B4%BE\">达明一派（Tat Ming Pair）组合<\/a><\/p>",
-        "author":"刘以达、晃耀明",
-        "year":"1980年代",
-        "status":"<p><a href=\"https:\/\/music.douban.com\/tag\/%25E8%25BE%25BE%25E6%2598%258E%25E4%25B8%2580%25E6%25B4%25BE\">条目删除<\/a><\/p>"
+        "music": "<p><a href=\"https://zh.wikipedia.org/wiki/%E9%81%94%E6%98%8E%E4%B8%80%E6%B4%BE\">达明一派（Tat Ming Pair）组合</a></p>",
+        "author": "刘以达、晃耀明",
+        "year": "1980年代",
+        "status": "<p><a href=\"https://music.douban.com/tag/%25E8%25BE%25BE%25E6%2598%258E%25E4%25B8%2580%25E6%25B4%25BE\">条目删除</a></p>"
+    },
+    {
+        "music": "<p><a href=\"https://www.youtube.com/watch?v=wIyzmd42NQQ\">他们</a></p>",
+        "author": "<p>李志</p>",
+        "year": "2015",
+        "status": "<p><a href=\"https://medium.com/@moreless/%E6%9C%89%E6%84%9F%E4%BA%8E%E6%9D%8E%E5%BF%97%E7%9A%84-%E4%BB%96%E4%BB%AC-%E8%A2%AB%E7%A6%81-f6c85efc6658\">被封禁</a></p>"
     }
 ]

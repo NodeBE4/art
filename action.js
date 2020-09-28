@@ -1,6 +1,4 @@
 let { Octokit } = require('@octokit/rest')
-let { loadWikipedia, loadBaiduBaike, generateArticle, googlePhoto } = require('./lib')
-const crypto = require('crypto');
 let fs = require('fs')
 let showdown  = require('showdown')
 let converter = new showdown.Converter()
@@ -31,7 +29,7 @@ let datafiles = {
   "music": "./data/musics.json"
 }
 
-function praseMd(text){
+function parseMd(text){
   let parts = text.split("### ")
   let data = {}
   for (i=1;i<parts.length;i++){
@@ -86,7 +84,7 @@ async function performTasks() {
 
       let text = fs.readFileSync(jsonfile, {encoding:'utf8', flag:'r'})
       let json = JSON.parse(text)
-      var topleader = bjson.filter(function (item) {
+      var topleader = json.filter(function (item) {
           return item == newitem ;
       }); 
       if (topleader.length > 0){
@@ -108,7 +106,7 @@ async function performTasks() {
         repo: REPO,
         issue_number: issue.number,
         state: 'closed',
-        title: `添加成功: ${newitem[Object.keys(newitem)[0]];}`,
+        title: `添加成功: ${newitem[Object.keys(newitem)[0]]}`,
         labels: ['success']
       })
     } catch(error) {

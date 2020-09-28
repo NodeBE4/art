@@ -19,5 +19,12 @@
         "year": "2015",
         "status": "<p><a href=\"https://medium.com/@moreless/%E6%9C%89%E6%84%9F%E4%BA%8E%E6%9D%8E%E5%BF%97%E7%9A%84-%E4%BB%96%E4%BB%AC-%E8%A2%AB%E7%A6%81-f6c85efc6658\">被封禁</a></p>",
         "id": 2
+    },
+    {
+        "music": "<p>历史的伤口</p>",
+        "author": "<p>群星</p>",
+        "year": "1989",
+        "status": "<p><a href=\"https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BC%A4%E5%8F%A3\">发起人赵少康，制作人李宗盛等，台湾</a></p>",
+        "id": 3
     }
 ]

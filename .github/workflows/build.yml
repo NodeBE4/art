@@ -1,10 +1,8 @@
-name: fetch
+name: issue
 
 on:
-  # push:
-  #   branches: [ master ]
-  # schedule:
-  #   - cron:  '10 * * * *'
+  issues:
+    types: [opened]
 
 jobs:
   build:
@@ -24,14 +22,18 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-node-
 
-    - run: |
+    - name: handle issues
+      env:
+        TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPOSITORY: ${{ secrets.REPOSITORY }}
+      run: |
         npm install
-        node perform.js
-        node clean.js
+        node action.js
         git config --local user.email "you@example.com"
-        git config --local user.name "duty machine"
+        git config --local user.name "hero bot"
         git config pull.rebase false
         git add .
-        git commit -m 'update'
+        git commit -m 'add new hero'
         git pull
         git push origin master
+

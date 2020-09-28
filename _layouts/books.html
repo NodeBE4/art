@@ -40,6 +40,7 @@ document.addEventListener("DOMContentLoaded", function(event){
   var noscript = document.getElementById("noscript-content");
   noscript.parentNode.removeChild(noscript)
   const thead_format = {
+    'id': '<span><b>ID</b></span>',
     'book': '<span><b>书名</b></span>',
     'author': '<span><b>作者</b></span>',
     'publisher': '<span><b>出版社</b></span>',
@@ -119,7 +120,7 @@ document.addEventListener("DOMContentLoaded", function(event){
       tr2.appendChild(th)
     });
     $('#add-hero-form').DataTable( {
-        "order": [[ 1, "desc" ]],
+        "order": [[ 0, "desc" ]],
         "language": {
             "url": "//cdn.datatables.net/plug-ins/1.10.21/i18n/Chinese.json"
         }

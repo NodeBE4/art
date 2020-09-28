@@ -6,52 +6,32 @@ const CORS_PROXY = "https://cors-anywhere.herokuapp.com/"
 
 let settings = { method: "Get" }
 
+let datafiles = {
+  "book": "./data/books.json",
+  "game": "./data/games.json",
+  "movie": "./data/movies.json",
+  "music": "./data/musics.json"
+}
+
+
 async function perform() {
-  let articles = []
-  let newarticles = []
-  let today = new Date()
-  let thismonth = today.toISOString().substring(0,7)
-  let filename = `./data/weixin_${thismonth}.json`
-  let postname = `./_posts/${thismonth}-01-weixin_censored_articles.md`
-  if (fs.existsSync(filename)) {
-    let rawtext = fs.readFileSync(filename, {encoding:'utf8', flag:'r'})
-    articles = JSON.parse(rawtext)
-  }
-
-  await fetch(data_url, settings)
-    .then(res => res.text())
-    .then((text) => {
-      let jsontext = text.replace(/<p>/g, '').replace(/<\/p>/g, '')
-      newarticles = JSON.parse(jsontext)
-    });
-
-  articles = articles.concat(newarticles)
-
-  // remove duplicates
-  articles = removeDuplicates(articles, 'url')
-
-  let content = JSON.stringify(articles, undefined, 4)
-  fs.writeFileSync(filename, content)
-
-  let thismonthtext = thismonth.replace('-','年') + `月`
-
-  let header = `---
-layout: table
-title: "${thismonthtext} 被删微信公众号文章"
-date: ${thismonth}-01
-author: "WeChatScope"
-from: "https://wechatscope.jmsc.hku.hk/api/update_weixin_public_pretty?days="
-tags: [ 微信公众号 ]
-categories: [ 微信公众号 ]
-data: "data/weixin_${thismonth}.json"
----
-`
-  md = header 
-  if (!fs.existsSync(postname)) {
-    fs.writeFileSync(postname, md)
-    console.log(`add ${postname}`)
-  }
-
+  let keys = Object.keys(datafiles)
+  keys.map((key)=>{
+    jsonfile = datafiles[key]
+    let text = fs.readFileSync(jsonfile, {encoding:'utf8', flag:'r'})
+    let json = JSON.parse(text)
+    let id = 0
+    json.map((item)=>{
+      if (item['id']){
+        console.log(item['id'])
+      }else{
+        item['id'] = id
+        id += 1
+      }
+    })
+    let content = JSON.stringify(json, undefined, 4);
+    fs.writeFileSync(jsonfile, content)    
+  })
 }
 
 function removeDuplicates(originalArray, prop) {

@@ -90,6 +90,7 @@ async function performTasks() {
       if (topleader.length > 0){
         throw Error('英雄所见略同，该条目已经存在了');
       }
+      newitem['id'] = json.length 
       json.push({
         ...newitem
       });

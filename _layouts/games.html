@@ -40,6 +40,7 @@ document.addEventListener("DOMContentLoaded", function(event){
   var noscript = document.getElementById("noscript-content");
   noscript.parentNode.removeChild(noscript)
   const thead_format = {
+    'id': '<span><b>ID</b></span>',
     'game': '<span><b>游戏</b></span>',
     'year': '<span><b>年代</b></span>',
     'developer': '<span><b>开发</b></span>',
@@ -122,7 +123,7 @@ document.addEventListener("DOMContentLoaded", function(event){
       tr2.appendChild(th)
     });
     $('#add-hero-form').DataTable( {
-        "order": [[ 1, "desc" ]],
+        "order": [[ 0, "desc" ]],
         "language": {
             "url": "//cdn.datatables.net/plug-ins/1.10.21/i18n/Chinese.json"
         }

@@ -28,5 +28,15 @@
         "year": "2017",
         "status": "<p>被封禁 <a href=\"https://zh.wikipedia.org/zh/%E8%BF%94%E6%A0%A1\">维基百科</a></p>",
         "id": 2
+    },
+    {
+        "game": "<p>集合啦！動物森友會</p>",
+        "platform": "<p>任天堂Switch</p>",
+        "developer": "任天堂",
+        "type": "生活模拟",
+        "mode": "多人",
+        "year": "2020",
+        "status": "<p>因香港抗争而被大陆下架，<a href=\"https://zh.wikipedia.org/zh/%E9%9B%86%E5%90%88%E5%95%A6%EF%BC%81%E5%8B%95%E7%89%A9%E6%A3%AE%E5%8F%8B%E6%9C%83\">维基百科</a></p>",
+        "id": 3
     }
 ]

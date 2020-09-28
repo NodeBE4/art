@@ -73,6 +73,9 @@ async function performTasks() {
         newitem['publisher'] = converter.makeHtml(rawitem['出版社'])
         newitem['author'] = rawitem['作者']
         newitem['isbn'] = converter.makeHtml(rawitem['ISBN'])
+        if (rawitem['推荐理由']){
+          newitem['reason'] = converter.makeHtml(rawitem['推荐理由'])
+        }
         jsonfile = datafiles['book']
       }else if(issue.title=='new_movie_request'){
         newitem['movie'] = converter.makeHtml(rawitem['影视作品名称'])

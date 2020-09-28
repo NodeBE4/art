@@ -2,6 +2,7 @@
 layout: default
 comments: true
 ---
+{% include secondnav.html %}
 
 {% include noscript.html %}
 
@@ -10,7 +11,7 @@ comments: true
 
 <hr>
 <div class="row"> 
-  <div class="col-12 col-md-6">
+  <div class="col-12 col-md-6" id="form">
     <h4>添加新游戏</h4>
     <p style="color: #566573;font-size: 12px;">提示：提交或投票成功或需approve批准no script弹出的警告。</p>
     <form id="add-hero-form" action="https://hero-form.vercel.app/api/artsubmit" method="post" target="_blank">

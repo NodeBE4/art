@@ -1,0 +1,46 @@
+<style> 
+img{ 
+  /*max-width:100%;  */
+  object-fit: cover;
+}
+
+.page{ width: auto; max-width: 100% ; display: inline-flex; float: left; text-align: center; vertical-align: middle; overflow: hidden; object-fit: cover;   position: relative;}
+{ padding:0;display: flow-root;}
+
+.page:hover img {
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.page img{
+  -webkit-transition: transform 0.5s ease;
+    -o-transition: transform 0.5s ease;
+    transition: transform 0.5s ease;
+}
+.page:nth-child(even) {
+    height: 100px;
+}
+.page:nth-child(odd) {
+    height: 100px; 
+}
+.page:nth-child(odd) .box_data{ background:rgba(0,0,0,0.17) }
+.page:nth-child(even) .box_data{ background:rgba(0,44,255,0.27) }
+.box_data{ position:absolute; top: 0; left: 0; right:0; bottom:0; color:#fff;}
+.box_data span{ position:absolute; top: 50%; transform: translateY(-50%); left:0 ; right:0; font-size:48px;}
+.page:hover .box_data{ background:rgba(255,0,39,0.55)}
+</style>
+
+<div class="row">
+  {% assign counter = 0 %}
+  {% for post in site.posts %}
+  <div class="col-sm align-items-center page">
+    <a href="{{ site.baseurl }}{{ post.url }}"><img src="https://picsum.photos/400/10{{ counter }}/?random"  style="object-fit: cover;">
+    <div class="box_data">
+      <span>{{ post.title }}</span>
+    </div></a>
+  </div>
+  {% assign counter = counter | plus: 1 %}
+  {% endfor %}
+</div>

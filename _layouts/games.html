@@ -34,7 +34,8 @@ comments: true
 //     $('#add-hero-form').DataTable();
 // } );
 const tempurl = `https://wechatscope.jmsc.hku.hk/api/html?fn=`
-const searchurl = `https://github.com/NodeBE4/weixin/issues?q=is%3Aissue+is%3Aclosed+`
+const googlesearchurl = `https://www.runnaroo.com/search?term=`
+const ytbsearchurl = `https://www.youtube.com/results?search_query=`
 
 document.addEventListener("DOMContentLoaded", function(event){
   var url = "{{ site.baseurl }}/{{ page.data }}";
@@ -50,6 +51,8 @@ document.addEventListener("DOMContentLoaded", function(event){
     'type': '<span><b>类型</b></span>',
     'mode': '<span><b>模式</b></span>',
     'status': '<span><b>资料</b></span>',
+    'google': '<i class="fa fa-google google" title="Google"></i>',
+    'youtube': '<i class="fa fa-youtube youtube" title="油管"></i>',
   }
   $.getJSON(url, function(json) {
     herolist = json;
@@ -88,16 +91,16 @@ document.addEventListener("DOMContentLoaded", function(event){
             let val = item[key] || 0
             td1.innerHTML = `<i style="font-size: 12px;">${val}</i>`
           }
-        }else if(key=='duty-machine'){
-          let archived = `https://wechatscope.jmsc.hku.hk/api/html?fn=${item['archive']}`
-          td1.innerHTML += `<a onclick="duty_machine('${archived}')" style="color:#2980B9" ><i class="fa fa-archive"></i></a>`
-          let encodedurl = searchurl+encodeURIComponent(item.title)
+        }else if(key=='google'){
+          let tmp = document.createElement('div')
+          tmp.innerHTML = item['game']
+          let encodedurl = googlesearchurl+encodeURIComponent(tmp.innerText)
           td1.innerHTML += `&nbsp<a href="${encodedurl}" style="color:#2980B9" target="_blank"><i class="fa fa-search"></i></a>`          
-        }else if (key=='archive'){
-          let decodedurl = `${tempurl}${item['archive']}`
-          let encodedurl = encodeURIComponent(decodedurl)
-          td1.innerHTML += `<a href="https://archive.today/?run=1&url=${encodedurl}" target="_blank"><i class="fa fa-archive"></i></a>`
-          td1.innerHTML += `&nbsp<a href="https://archive.today/${decodedurl}"  style="color:#2980B9" target="_blank"><i class="fa fa-search"></i></a>`
+        }else if (key=='youtube'){
+          let tmp = document.createElement('div')
+          tmp.innerHTML = item['game']
+          let encodedurl = ytbsearchurl+encodeURIComponent(tmp.innerText)
+          td1.innerHTML += `&nbsp<a href="${encodedurl}" style="color:#2980B9" target="_blank"><i class="fa fa-search"></i></a>`          
         }else if (key=='time-machine'){
           let decodedurl = `${tempurl}${item['archive']}`
           td1.innerHTML += `<a href="https://web.archive.org/save/${decodedurl}" target="_blank"><i class="fa fa-archive"></i></a>`
@@ -108,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function(event){
           td1.innerHTML += `&nbsp<i style="font-size: 12px;">${val}</i>`
         }else{
           let val = item[key] || 0
-          td1.innerHTML = `<i style="font-size: 12px;">${val}</i>`
+          td1.innerHTML = `<i style="font-size: 12px;"><b>${val}</b></i>`
         }
         tr.appendChild(td1);
       });

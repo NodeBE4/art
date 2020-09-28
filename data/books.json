@@ -425,5 +425,12 @@
         "author": "George Orwell",
         "isbn": "<p>9789573270126, <a href=\"https://www.worldcat.org/oclc/470015866\">470015866</a></p>",
         "id": 60
+    },
+    {
+        "book": "<p>毛主席语录</p>",
+        "publisher": "<p><a href=\"https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E6%94%BF%E6%B2%BB%E9%83%A8\">中国人民解放军总政治部</a>, <a href=\"https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E5%87%BA%E7%89%88%E7%A4%BE\">人民出版社</a></p>",
+        "author": "毛泽东",
+        "isbn": "<p>978-0-8351-2388-4, <a href=\"https://www.worldcat.org/oclc/23380824\">23380824</a></p>",
+        "id": 61
     }
 ]

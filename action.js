@@ -80,6 +80,8 @@ async function performTasks() {
         newitem['year'] = rawitem['年代']
         newitem['imdb'] = `<a href="${rawitem['IMDB url']}">${rawitem['IMDB名称']}</a>`
         jsonfile = datafiles['movie']
+      }else{
+        throw Error('非法请求');
       }
 
       let text = fs.readFileSync(jsonfile, {encoding:'utf8', flag:'r'})

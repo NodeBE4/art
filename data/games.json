@@ -8,5 +8,15 @@
         "year": "2010",
         "status": "<a href=\"https://zh.wikipedia.org/wiki/%E6%B0%91%E5%9C%8B%E7%84%A1%E9%9B%99\">民國無雙</a>",
         "id": 0
+    },
+    {
+        "game": "<p>返校Detention</p>",
+        "platform": "<p>Microsoft Windows, MacOS, Linux, PlayStation 4, 任天堂Switch, Android, iOS</p>",
+        "developer": "[赤燭遊戲](redcandlegames.com), 姚舜庭",
+        "type": "恐怖, 冒险, 解謎",
+        "mode": "单人",
+        "year": "2017",
+        "status": "<p><a href=\"https://zh.wikipedia.org/zh/%E8%BF%94%E6%A0%A1\"></a></p>",
+        "id": 1
     }
 ]

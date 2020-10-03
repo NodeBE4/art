@@ -480,5 +480,13 @@
         "isbn": "<p>9787222025639 <a href=\"https://web.archive.org/web/20170904125421/https://book.douban.com/subject/1025723//\">豆瓣</a></p>",
         "reason": "<p>看待社会和政治的全新视角，影响深远</p>",
         "id": 67
+    },
+    {
+        "book": "<p>血酬定律-中国历史中的生存游戏</p>",
+        "publisher": "<p>中国工人出版社</p>",
+        "author": "吴思",
+        "isbn": "<p>9787500830870 <a href=\"https://web.archive.org/web/20150420043120/http://book.douban.com/subject/1006560/\">豆瓣</a></p>",
+        "reason": "<p>从历史中提炼出来的经济规律，提供看待政治与社会新视角</p>",
+        "id": 68
     }
 ]

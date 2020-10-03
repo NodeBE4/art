@@ -472,5 +472,13 @@
         "isbn": "<p>9787521704419</p>",
         "reason": "<p>政治学</p>",
         "id": 66
+    },
+    {
+        "book": "<p>潜规则-中国历史中的真实游戏</p>",
+        "publisher": "<p>云南人民出版社</p>",
+        "author": "吴思",
+        "isbn": "<p>9787222025639 <a href=\"https://web.archive.org/web/20170904125421/https://book.douban.com/subject/1025723//\">豆瓣</a></p>",
+        "reason": "<p>看待社会和政治的全新视角，影响深远</p>",
+        "id": 67
     }
 ]

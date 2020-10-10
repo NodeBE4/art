@@ -26,6 +26,7 @@ let datafiles = {
   "book": "./data/books.json",
   "game": "./data/games.json",
   "movie": "./data/movies.json",
+  "talk": "./data/talks.json",
   "music": "./data/musics.json"
 }
 
@@ -83,6 +84,15 @@ async function performTasks() {
         newitem['year'] = rawitem['年代']
         newitem['imdb'] = `<a href="${rawitem['IMDB url']}">${rawitem['IMDB名称']}</a>`
         jsonfile = datafiles['movie']
+      }else if(issue.title=='new_talk_request'){
+        newitem['talk'] = converter.makeHtml(rawitem['讲座名称'])
+        newitem['author'] = rawitem['讲者']
+        newitem['year'] = rawitem['年代']
+        newitem['url'] = rawitem['视频 url']
+        if (rawitem['推荐理由']){
+          newitem['reason'] = converter.makeHtml(rawitem['推荐理由'])
+        }
+        jsonfile = datafiles['talk']
       }else{
         throw Error('非法请求');
       }

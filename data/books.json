@@ -488,5 +488,13 @@
         "isbn": "<p>9787500830870 <a href=\"https://web.archive.org/web/20150420043120/http://book.douban.com/subject/1006560/\">豆瓣</a></p>",
         "reason": "<p>从历史中提炼出来的经济规律，提供看待政治与社会新视角</p>",
         "id": 68
+    },
+    {
+        "book": "<p>Censored: Distraction and Diversion Inside China`s Great Firewall</p>",
+        "publisher": "<p>Princeton University Press</p>",
+        "author": "Margaret E. Roberts",
+        "isbn": "<p>9780691178868</p>",
+        "reason": "<p>全面详细的了解中国的网络审查</p>",
+        "id": 69
     }
 ]

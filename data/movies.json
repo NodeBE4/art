@@ -649,5 +649,12 @@
         "year": "2003",
         "imdb": "<a href=\"https://www.imdb.com/title/tt1841462/\">Towards the Republic</a>",
         "id": 92
+    },
+    {
+        "movie": "<p>让子弹飞</p>",
+        "director": "姜文",
+        "year": "2010",
+        "imdb": "<a href=\"https://www.imdb.com/title/tt1533117/\">Rang zi dan fei</a>",
+        "id": 93
     }
 ]

@@ -670,5 +670,12 @@
         "year": "2003",
         "imdb": "<a href=\"https://www.imdb.com/title/tt0351299/\">Blind Shaft</a>",
         "id": 95
+    },
+    {
+        "movie": "<p>天浴</p>",
+        "director": "陈冲",
+        "year": "1998",
+        "imdb": "<a href=\"https://www.imdb.com/title/tt0115005/\">Xiu Xiu: The Sent-Down Girl</a>",
+        "id": 96
     }
 ]

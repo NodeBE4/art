@@ -705,5 +705,12 @@
         "year": "1993",
         "imdb": "<a href=\"https://www.imdb.com/title/tt0109262/\">Her Fatal Ways III</a>",
         "id": 100
+    },
+    {
+        "movie": "<p>天菩萨</p>",
+        "director": "严浩",
+        "year": "1987",
+        "imdb": "<a href=\"https://www.imdb.com/title/tt0092706/\">Buddha's Lock</a>",
+        "id": 101
     }
 ]

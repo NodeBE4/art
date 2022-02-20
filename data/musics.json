@@ -26,5 +26,12 @@
         "year": "1989",
         "status": "<p><a href=\"https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BC%A4%E5%8F%A3\">发起人赵少康，制作人李宗盛等，台湾</a></p>",
         "id": 3
+    },
+    {
+        "music": "<p>亚细亚的孤儿</p>",
+        "author": "<p>罗大佑、王杰</p>",
+        "year": "1983",
+        "status": "<p><a href=\"https://www.youtube.com/watch?v=2fqhfVBjeso\">亚细亚的孤儿</a>在风中哭泣黄色的脸孔有红色的污泥黑色的眼珠有白色的恐惧西风在东方唱着悲伤的歌曲</p>",
+        "id": 4
     }
 ]

@@ -719,5 +719,12 @@
         "year": "2017",
         "imdb": "<a href=\"https://www.imdb.com/title/tt5662662/\">Mang dao</a>",
         "id": 102
+    },
+    {
+        "movie": "<p>完美独裁</p>",
+        "director": "Luis Estrada",
+        "year": "2014",
+        "imdb": "<a href=\"https://www.imdb.com/title/tt3970854/\">La dictadura perfecta</a>",
+        "id": 103
     }
 ]

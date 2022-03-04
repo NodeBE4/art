@@ -740,5 +740,12 @@
         "year": "2021",
         "imdb": "<a href=\"https://www.imdb.com/title/tt15049118/\">Revolution of Our Times</a>",
         "id": 105
+    },
+    {
+        "movie": "<p>斯大林之死</p>",
+        "director": "Armando Iannucci",
+        "year": "2017",
+        "imdb": "<a href=\"https://www.imdb.com/title/tt4686844/\">The Death of Stalin</a>",
+        "id": 106
     }
 ]

@@ -591,5 +591,13 @@
         "isbn": "<p>unknown</p>",
         "reason": "<p><a href=\"https://b-ok.cc/book/17566332/c8379e\">下载地址</a></p>",
         "id": 81
+    },
+    {
+        "book": "<p>李锐口述往事</p>",
+        "publisher": "<p>大山文化出版社</p>",
+        "author": "丁冬, 李南央",
+        "isbn": "<p>9881609798</p>",
+        "reason": "<p><a href=\"https://b-ok.cc/book/17566332/c8379e\">下载地址</a></p>",
+        "id": 82
     }
 ]

@@ -1,0 +1,37 @@
+[
+    {
+        "music": "<p>中国孩子</p>",
+        "author": "周云蓬",
+        "year": "2007",
+        "status": "<p><a href=\"https://music.douban.com/subject/2121986/\">仅登录可见</a></p>",
+        "id": 0
+    },
+    {
+        "music": "<p><a href=\"https://zh.wikipedia.org/wiki/%E9%81%94%E6%98%8E%E4%B8%80%E6%B4%BE\">达明一派（Tat Ming Pair）组合</a></p>",
+        "author": "刘以达、晃耀明",
+        "year": "1980年代",
+        "status": "<p><a href=\"https://music.douban.com/tag/%25E8%25BE%25BE%25E6%2598%258E%25E4%25B8%2580%25E6%25B4%25BE\">条目删除</a></p>",
+        "id": 1
+    },
+    {
+        "music": "<p><a href=\"https://www.youtube.com/watch?v=wIyzmd42NQQ\">他们</a></p>",
+        "author": "<p>李志</p>",
+        "year": "2015",
+        "status": "<p><a href=\"https://medium.com/@moreless/%E6%9C%89%E6%84%9F%E4%BA%8E%E6%9D%8E%E5%BF%97%E7%9A%84-%E4%BB%96%E4%BB%AC-%E8%A2%AB%E7%A6%81-f6c85efc6658\">被封禁</a></p>",
+        "id": 2
+    },
+    {
+        "music": "<p>历史的伤口</p>",
+        "author": "<p>群星</p>",
+        "year": "1989",
+        "status": "<p><a href=\"https://zh.wikipedia.org/wiki/%E5%8E%86%E5%8F%B2%E7%9A%84%E4%BC%A4%E5%8F%A3\">发起人赵少康，制作人李宗盛等，台湾</a></p>",
+        "id": 3
+    },
+    {
+        "music": "<p>亚细亚的孤儿</p>",
+        "author": "<p>罗大佑、王杰</p>",
+        "year": "1983",
+        "status": "<p><a href=\"https://www.youtube.com/watch?v=2fqhfVBjeso\">亚细亚的孤儿</a>在风中哭泣黄色的脸孔有红色的污泥黑色的眼珠有白色的恐惧西风在东方唱着悲伤的歌曲</p>",
+        "id": 4
+    }
+]

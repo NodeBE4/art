@@ -1,0 +1,603 @@
+[
+    {
+        "book": "<p>江上的母親</p>",
+        "publisher": "南方家園文化",
+        "author": "野夫",
+        "isbn": "<p>9789868279551</p>",
+        "id": 0
+    },
+    {
+        "book": "<p>一滴淚：從肅反到文革的回憶</p>",
+        "publisher": "允晨文化",
+        "author": "巫宁坤",
+        "isbn": "<p>9789867178398</p>",
+        "id": 1
+    },
+    {
+        "book": "<p>上海生死劫/生死在上海（<a href=\"https://www.goodreads.com/book/show/537404.Life_and_Death_in_Shanghai\"><em>Life and Death in Shanghai</em></a>）</p>",
+        "publisher": "百家出版社",
+        "author": "郑念（译者：方耀君、郑培君、方耀楣）",
+        "isbn": "<p>7900000011</p>",
+        "id": 2
+    },
+    {
+        "book": "<p>牛鬼蛇神录：文革囚禁中的精灵（The Captive Spirits）</p>",
+        "publisher": "香港牛津大学出版社",
+        "author": "杨小凯",
+        "isbn": "<p>9780195865226</p>",
+        "id": 3
+    },
+    {
+        "book": "<p>纳粹德国的腐败与反腐</p>",
+        "publisher": "译林出版社",
+        "author": "弗兰克·巴约尔（译者：陆大鹏）",
+        "isbn": "<p>9787544754750</p>",
+        "id": 4
+    },
+    {
+        "book": "<p>违宪审查与民主制的平衡：一项比较研究</p>",
+        "publisher": "中国社会科学出版社",
+        "author": "翟桔红",
+        "isbn": "<p>9787516113943</p>",
+        "id": 5
+    },
+    {
+        "book": "<p>定西孤儿院纪事</p>",
+        "publisher": "花城出版社",
+        "author": "章怡和",
+        "isbn": "<p>9781780421834</p>",
+        "id": 6
+    },
+    {
+        "book": "<p>往事并不如烟</p>",
+        "publisher": "人民文学出版社",
+        "author": "章怡和",
+        "isbn": "<p>9787020044405</p>",
+        "id": 7
+    },
+    {
+        "book": "<p>伶人往事</p>",
+        "publisher": "湖南文艺出版社",
+        "author": "章怡和",
+        "isbn": "<p>9787540438173</p>",
+        "id": 8
+    },
+    {
+        "book": "<p>历史学的境界</p>",
+        "publisher": "广西师范大学出版社",
+        "author": "高华",
+        "isbn": "<p>9787549571413</p>",
+        "id": 9
+    },
+    {
+        "book": "<p>身份和差異：1945-1965 年中國社會的政治分層</p>",
+        "publisher": "香港中文大學香港亞太研究所",
+        "author": "高華",
+        "isbn": "<p>9789624417173</p>",
+        "id": 10
+    },
+    {
+        "book": "<p>走出帝制：从晚清到民国历史的回望</p>",
+        "publisher": "群言出版社",
+        "author": "秦晖",
+        "isbn": "<p>9787802569027</p>",
+        "id": 11
+    },
+    {
+        "book": "<p>巨婴国</p>",
+        "publisher": "浙江人民出版社",
+        "author": "武志红",
+        "isbn": "<p>9787213076824</p>",
+        "id": 12
+    },
+    {
+        "book": "<p>大路：高速中国里的工地纪事</p>",
+        "publisher": "广西师范大学出版社",
+        "author": "张赞波",
+        "isbn": "<p>9787549573806</p>",
+        "id": 13
+    },
+    {
+        "book": "<p>天葬：西藏的命运</p>",
+        "publisher": "大塊文化",
+        "author": "王力雄",
+        "isbn": "<p><a href=\"https://www.goodreads.com/book/show/9335765\">9789862131077</a></p>",
+        "id": 14
+    },
+    {
+        "book": "<p>失落的一代：中国的上山下乡运动·1968-1980（<em>The Lost Generation: The Rustification of Chinese Youth(1968-1980)</em> ）</p>",
+        "publisher": "中国大百科全书出版社",
+        "author": "潘鸣啸[法]/欧阳因 译",
+        "isbn": "<p>9787500082545</p>",
+        "id": 15
+    },
+    {
+        "book": "<p>我們最幸福：北韓人民的真實生活（<em>Nothing to Envy: Ordinary Lives in North Korea</em>）</p>",
+        "publisher": "麥田出版",
+        "author": "芭芭拉·德米克 Barbara Demick/黃煜文 譯",
+        "isbn": "<p>9789861207896</p>",
+        "id": 16
+    },
+    {
+        "book": "<p>历史的先声：半个世纪前的庄严承诺</p>",
+        "publisher": "汕头大学出版社",
+        "author": "笑蜀",
+        "isbn": "<p>9787810363457 <a href=\"http://www.douban.com/subject/3149832/\">条目删除</a></p>",
+        "id": 17
+    },
+    {
+        "book": "<p>大江大海：一九四九</p>",
+        "publisher": "天下雜誌",
+        "author": "龍應台",
+        "isbn": "<p>9789862410493</p>",
+        "id": 18
+    },
+    {
+        "book": "<p>灵山</p>",
+        "publisher": "联经出版公司",
+        "author": "高行健",
+        "isbn": "<p><a href=\"https://www.goodreads.com/book/show/14733840\">9789570836899</a></p>",
+        "id": 19
+    },
+    {
+        "book": "<p>一个人的圣经（<a href=\"https://book.douban.com/subject/10548707/\">One Man's Bible</a>）</p>",
+        "publisher": "联经出版公司",
+        "author": "高行健",
+        "isbn": "<p>9570819413</p>",
+        "id": 20
+    },
+    {
+        "book": "<p><a href=\"https://www.worldcat.org/title/ding-zhuang-meng/oclc/952361538?loc=\">丁庄梦</a></p>",
+        "publisher": "上海文艺出版社",
+        "author": "阎连科",
+        "isbn": "<p><a href=\"https://www.goodreads.com/book/show/20869383\">7532129489</a></p>",
+        "id": 21
+    },
+    {
+        "book": "<p>软埋</p>",
+        "publisher": "人民文学出版社",
+        "author": "方方",
+        "isbn": "<p><a href=\"https://www.goodreads.com/book/show/35414562\">7020116140</a></p>",
+        "id": 22
+    },
+    {
+        "book": "<p>我的西域，你的東土</p>",
+        "publisher": "大塊文化",
+        "author": "王力雄",
+        "isbn": "<p><a href=\"https://www.goodreads.com/book/show/7906957\">9789862130117</a></p>",
+        "id": 23
+    },
+    {
+        "book": "<p>大典</p>",
+        "publisher": "大塊文化",
+        "author": "王力雄",
+        "isbn": "<p><a href=\"https://www.goodreads.com/book/show/37460186\">9789862138458</a></p>",
+        "id": 24
+    },
+    {
+        "book": "<p>黃禍</p>",
+        "publisher": "大塊文化",
+        "author": "王力雄",
+        "isbn": "<p><a href=\"https://www.goodreads.com/book/show/39837383\">9789862138502</a></p>",
+        "id": 25
+    },
+    {
+        "book": "<p>殺劫 不可碰觸的記憶禁區，鏡頭下的西藏文革，第一次披露</p>",
+        "publisher": "大塊文化",
+        "author": "唯色、澤仁多吉",
+        "isbn": "<p><a href=\"https://www.goodreads.com/book/show/40432886\">9789862137000</a></p>",
+        "id": 26
+    },
+    {
+        "book": "<p>聽說西藏</p>",
+        "publisher": "大塊文化",
+        "author": "王力雄、唯色",
+        "isbn": "<p><a href=\"https://www.goodreads.com/book/show/12240166-voices-from-tibet\">9789862131190</a></p>",
+        "id": 27
+    },
+    {
+        "book": "<p>圖伯特這幾年：聽說西藏之二</p>",
+        "publisher": "允晨文化",
+        "author": "唯色、王力雄",
+        "isbn": "<p>9789866274640</p>",
+        "id": 28
+    },
+    {
+        "book": "<p>絳紅色地圖</p>",
+        "publisher": "時英",
+        "author": "唯色",
+        "isbn": "<p>9867762045</p>",
+        "id": 29
+    },
+    {
+        "book": "<p>西藏記憶</p>",
+        "publisher": "大塊文化",
+        "author": "唯色",
+        "isbn": "<p>9867291859</p>",
+        "id": 30
+    },
+    {
+        "book": "<p>名為西藏的詩</p>",
+        "publisher": "大塊文化",
+        "author": "唯色",
+        "isbn": "<p>9867291905</p>",
+        "id": 31
+    },
+    {
+        "book": "<p>念珠中的故事</p>",
+        "publisher": "大風",
+        "author": "唯色",
+        "isbn": "<p>9789889972523</p>",
+        "id": 32
+    },
+    {
+        "book": "<p>鼠年雪獅吼-2008年西藏事件大事紀</p>",
+        "publisher": "允晨文化",
+        "author": "唯色",
+        "isbn": "<p>9789867178800</p>",
+        "id": 33
+    },
+    {
+        "book": "<p>西藏火鳳凰：獻給所有自焚藏人</p>",
+        "publisher": "大塊文化",
+        "author": "唯色",
+        "isbn": "<p>9789862135914</p>",
+        "id": 34
+    },
+    {
+        "book": "<p>絳紅廢墟</p>",
+        "publisher": "大塊文化",
+        "author": "唯色",
+        "isbn": "<p>9789862137673</p>",
+        "id": 35
+    },
+    {
+        "book": "<p>樂土背後：真實西藏</p>",
+        "publisher": "時報出版",
+        "author": "唯色",
+        "isbn": "<p>9789571365770</p>",
+        "id": 36
+    },
+    {
+        "book": "<p>遞進民主</p>",
+        "publisher": "大塊文化",
+        "author": "王力雄",
+        "isbn": "<p>9867291832</p>",
+        "id": 37
+    },
+    {
+        "book": "<p>權民一體論：遞進自組織社會</p>",
+        "publisher": "大塊文化",
+        "author": "王力雄",
+        "isbn": "<p>9789862137383</p>",
+        "id": 38
+    },
+    {
+        "book": "<p>無間空白</p>",
+        "publisher": "雪域（另，此出版社所有書）",
+        "author": "唯色",
+        "isbn": "<p>9789869308892</p>",
+        "id": 39
+    },
+    {
+        "book": "<p>躁動的新疆, 不安的維吾爾</p>",
+        "publisher": "光現出版",
+        "author": "尼克·霍史達克（Nick Holdstock）、譯者：許庫爾",
+        "isbn": "<p><a href=\"https://www.goodreads.com/book/show/40949616\">9789869620246</a></p>",
+        "id": 40
+    },
+    {
+        "book": "<p>龍在雪域：一九四七年後的西藏(<em>The Dragon in the Land of Snows: A History of Modern Tibet Since 1947</em>）</p>",
+        "publisher": "左岸文化",
+        "author": "茨仁夏加(Tsering Shakya)、譯者：謝惟敏",
+        "isbn": "<p>9789866723490</p>",
+        "id": 41
+    },
+    {
+        "book": "<p>遮蔽的圖伯特：國際藏學家解讀西藏百題問答（<em>Authenticating TIBET: Answers to China’s 100 Questions</em>）</p>",
+        "publisher": "前衛",
+        "author": "安瑪莉．布隆鐸（Anne-Marie Blondeau）、卡提亞．畢菲特里耶（Katia Buffetrille）等、譯者：謝惟敏",
+        "isbn": "<p>9789578016644</p>",
+        "id": 42
+    },
+    {
+        "book": "<p>噶倫堡的製麵師：達賴喇嘛二哥回憶錄‧不為人知的圖博奮鬥故事（<em>The noodle maker of Kalimpong:The untold story of my struggle for tibet</em>）</p>",
+        "publisher": "台灣圖博之友會（另，此出版社所有書）",
+        "author": "嘉樂頓珠（Gyalo Thondup）、石文安（Anne F. Thurston）譯者：謝惟敏",
+        "isbn": "<p>9789868608153</p>",
+        "id": 43
+    },
+    {
+        "book": "<p>沒有墓碑的草原：內蒙古的文革大屠殺實錄(墓標なき草原――内モンゴルにおける文化大革命・虐殺の記録)</p>",
+        "publisher": "八旗文化",
+        "author": "楊海英、譯者：劉英伯、劉燕子",
+        "isbn": "<p>9789865842406</p>",
+        "id": 44
+    },
+    {
+        "book": "<p>蒙古騎兵在西藏揮舞日本刀：蒙藏民族的時代悲劇（チベットに舞う日本刀 モンゴル騎兵の現代史</p>",
+        "publisher": "大塊文化",
+        "author": "楊海英、譯者：吉普呼蘭",
+        "isbn": "<p>9789862137864</p>",
+        "id": 45
+    },
+    {
+        "book": "<p>在中國與蒙古的夾縫之間：一個蒙古人未竟的民族自決之夢（中囯とモンゴルのはざまで：ウラーンフーの実らなかった民族自決の夢）</p>",
+        "publisher": "八旗文化",
+        "author": "楊海英",
+        "isbn": "<p>9789578654235</p>",
+        "id": 46
+    },
+    {
+        "book": "<p>東突厥斯坦：維吾爾人的真實世界</p>",
+        "publisher": "前衛",
+        "author": "霍爾．唐日塔格（HÜR TANGRITAGH）",
+        "isbn": "<p>9789578018075</p>",
+        "id": 47
+    },
+    {
+        "book": "<p>東突厥斯坦獨立運動：1930年代至1940年代</p>",
+        "publisher": "香港中文大學出版社",
+        "author": "王柯",
+        "isbn": "<p>9789629965006</p>",
+        "id": 48
+    },
+    {
+        "book": "<p>她們的征途：直擊、迂迴與衝撞，中國女性的公民覺醒之路</p>",
+        "publisher": "八旗文化",
+        "author": "趙思樂",
+        "isbn": "<p>9789869516884</p>",
+        "id": 49
+    },
+    {
+        "book": "<p>The Great Firewall of China:How to Build and Control an Alternative Version of the Internet</p>",
+        "publisher": "Zed Books",
+        "author": "James Griffiths",
+        "isbn": "<p><a href=\"https://www.goodreads.com/book/show/42585634-the-great-firewall-of-china\">1786995352</a></p>",
+        "id": 50
+    },
+    {
+        "book": "<p><a href=\"https://www.books.com.tw/products/0010781279\">邊境線：中國內陸邊疆旅行記</a></p>",
+        "publisher": "遠足文化",
+        "author": "柴春芽",
+        "isbn": "<p><a href=\"https://book.douban.com/subject/30127513\">9789578630215</a></p>",
+        "id": 51
+    },
+    {
+        "book": "<p><a href=\"https://book.douban.com/subject/34811123/\">中国米兔志</a></p>",
+        "publisher": "中国米兔志编辑组",
+        "author": "周仪主编",
+        "isbn": "<p><a href=\"https://libgen.is/book/index.php?md5=D65E91B6371965AD1A5DBBA631BDD915\">豆瓣不收录，请看libgen</a></p>",
+        "id": 52
+    },
+    {
+        "book": "<p><a href=\"https://book.douban.com/subject/24855510/\">香港简史</a> </p>",
+        "publisher": "香港中華書局",
+        "author": "高馬可",
+        "isbn": "<p>豆瓣 <a href=\"https://book.douban.com/subject/24855510/\">9789888263202</a></p>",
+        "id": 53
+    },
+    {
+        "book": "<p>A Concise History of Hong Kong </p>",
+        "publisher": "Rowman & Littlefield Publishers, Inc.",
+        "author": "John M. Carroll",
+        "isbn": "<p>豆瓣<a href=\"https://book.douban.com/subject/2427184/\">链接</a></p>",
+        "id": 54
+    },
+    {
+        "book": "<p>Capitalism with Chinese Characteristics</p>",
+        "publisher": " CambridgeUniversityPress",
+        "author": "Yasheng Huang",
+        "isbn": "<p>豆瓣已删除 <a href=\"https://book.douban.com/subject/2427184/\">9780521898102</a></p>",
+        "id": 55
+    },
+    {
+        "book": "<p>盛世</p>",
+        "publisher": " 麥田 ",
+        "author": "陳冠中",
+        "isbn": "<p>9789861735795</p>",
+        "id": 56
+    },
+    {
+        "book": "<p>與中國打交道：美國前財長鮑爾森的二十年內幕觀察</p>",
+        "publisher": " 時報出版 ",
+        "author": "亨利．鮑爾森(Henry M. Paulson)",
+        "isbn": "<p>9789571368696 <a href=\"https://book.douban.com/subject/27010498/\">条目删除</a></p>",
+        "id": 57
+    },
+    {
+        "book": "<p>尘世·挽歌</p>",
+        "publisher": " 新星出版社 ",
+        "author": "野夫",
+        "isbn": "<p>9787802258990 <a href=\"https://book.douban.com/subject/4809777/\">条目删除</a></p>",
+        "id": 58
+    },
+    {
+        "book": "<p>过去与未来之间</p>",
+        "publisher": " 译林出版社 ",
+        "author": "汉娜·阿伦特(Hannah Arendt)",
+        "isbn": "<p>9787544720779 <a href=\"https://book.douban.com/subject/6540232/\">条目删除</a></p>",
+        "id": 59
+    },
+    {
+        "book": "<p><a href=\"https://en.wikipedia.org/wiki/Nineteen_Eighty-Four\">1984</a></p>",
+        "publisher": "<p>Secker &amp; Warburg</p>",
+        "author": "George Orwell",
+        "isbn": "<p>9789573270126, <a href=\"https://www.worldcat.org/oclc/470015866\">470015866</a></p>",
+        "id": 60
+    },
+    {
+        "book": "<p>毛主席语录</p>",
+        "publisher": "<p><a href=\"https://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E8%A7%A3%E6%94%BE%E5%86%9B%E6%80%BB%E6%94%BF%E6%B2%BB%E9%83%A8\">中国人民解放军总政治部</a>, <a href=\"https://zh.wikipedia.org/wiki/%E4%BA%BA%E6%B0%91%E5%87%BA%E7%89%88%E7%A4%BE\">人民出版社</a></p>",
+        "author": "毛泽东",
+        "isbn": "<p>978-0-8351-2388-4, <a href=\"https://www.worldcat.org/oclc/23380824\">23380824</a></p>",
+        "id": 61
+    },
+    {
+        "book": "<p>黑客与画家：硅谷创业之父Paul Graham文集</p>",
+        "publisher": "<p>人民邮电出版社</p>",
+        "author": "[美] 保罗·格雷厄姆",
+        "isbn": "<p>7115249490, 9787115249494</p>",
+        "reason": "<p>本书适合所有程序员和互联网创业者，也适合一切对计算机行业感兴趣的读者。</p>",
+        "id": 62
+    },
+    {
+        "book": "<p>中國民主運動史. 從中國之春到茉莉花革命潮</p>",
+        "publisher": "<p>新锐文创</p>",
+        "author": "翁衍庆",
+        "isbn": "<p>9869225764</p>",
+        "reason": "<p>了解中共治下爭取自由民主的抗爭歷史</p>",
+        "id": 63
+    },
+    {
+        "book": "<p>中國民主運動史：從延安王實味爭民主到西單民主牆</p>",
+        "publisher": "<p>新锐文创</p>",
+        "author": "翁衍庆",
+        "isbn": "<p>9869225756</p>",
+        "reason": "<p>了解中共治下爭取自由民主的抗爭歷史</p>",
+        "id": 64
+    },
+    {
+        "book": "<p>政治学（第二版）</p>",
+        "publisher": "<p>中国人民大学出版社</p>",
+        "author": "[英]安德鲁·海伍德 Andrew Heywood",
+        "isbn": "<p>9787300074238</p>",
+        "reason": "<p>政治学</p>",
+        "id": 65
+    },
+    {
+        "book": "<p>牛津大学哲学通识课：政治哲学</p>",
+        "publisher": "<p>中信出版集团</p>",
+        "author": "[英] 乔纳森·沃尔夫（Jonathan Wolff）",
+        "isbn": "<p>9787521704419</p>",
+        "reason": "<p>政治学</p>",
+        "id": 66
+    },
+    {
+        "book": "<p>潜规则-中国历史中的真实游戏</p>",
+        "publisher": "<p>云南人民出版社</p>",
+        "author": "吴思",
+        "isbn": "<p>9787222025639 <a href=\"https://web.archive.org/web/20170904125421/https://book.douban.com/subject/1025723//\">豆瓣</a></p>",
+        "reason": "<p>看待社会和政治的全新视角，影响深远</p>",
+        "id": 67
+    },
+    {
+        "book": "<p>血酬定律-中国历史中的生存游戏</p>",
+        "publisher": "<p>中国工人出版社</p>",
+        "author": "吴思",
+        "isbn": "<p>9787500830870 <a href=\"https://web.archive.org/web/20150420043120/http://book.douban.com/subject/1006560/\">豆瓣</a></p>",
+        "reason": "<p>从历史中提炼出来的经济规律，提供看待政治与社会新视角</p>",
+        "id": 68
+    },
+    {
+        "book": "<p>Censored: Distraction and Diversion Inside China`s Great Firewall</p>",
+        "publisher": "<p>Princeton University Press</p>",
+        "author": "Margaret E. Roberts",
+        "isbn": "<p>9780691178868</p>",
+        "reason": "<p>全面详细的了解中国的网络审查</p>",
+        "id": 69
+    },
+    {
+        "book": "<p>中国宪政改革可行性研究报告</p>",
+        "publisher": "<p>香港晨钟书局</p>",
+        "author": "张博树",
+        "isbn": "",
+        "reason": "<p>自1911年辛亥革命推翻帝制、始创共和以来，中国已经在建设一个民主社会、完成现代社会转型方面艰难地跋涉了将近一百年。几代先贤付出了无数的努力，可以说既有成功的经验，也经历了太多的失败，积累了足够的苦痛与教训。今天，中国在经济上取得了长足的进步，这要归功于现代市场经济的制度性魔力；但我们的政治体制仍然极其落后，以中国共产党一党专制为核心的中国现行政治体制仍然是中国走向政治现代化、回归世界主流文明的最大障碍。</p>",
+        "id": 70
+    },
+    {
+        "book": "<p>苏联共产党九十三年: 1898 至 1991年苏共历史大事实录</p>",
+        "publisher": "<p>当代中国出版社</p>",
+        "author": "沈志华, 于沛",
+        "isbn": "<p>7800921360, 9787800921360</p>",
+        "reason": "<p>本书是一部关于苏联共产党从产生到解散共93年充满风雨变幻历程的实录性史书。该书以年为经，以事为纬，以苏联国内公开发表和出版的资料为基础，客观地向人们展示了苏联共产党历史发展的全过程，其中很多是第一次翻译成中文的材料。同时本书收录多幅历史照片以及作为附录的苏共领导机构沿革及领导成员变动表，也是极有价值的参考材料。</p>",
+        "id": 71
+    },
+    {
+        "book": "<p>超凡領袖的挫敗：文化大革命在武漢</p>",
+        "publisher": "<p>香港中文大學出版社</p>",
+        "author": "王紹光",
+        "isbn": "<p><a href=\"https://b-ok.cc/book/5333128/3c6476\">9789629963460</a></p>",
+        "reason": "<p>本書為王紹光教授著作 The Failure of Charisma 的中譯本，由王紅續博士主譯。作者經多年實地研究考察、訪問及親身經歷，根據大量從未曝光的文獻，以文革時期的武漢為中心，分析文革時期群眾的集體行為，以及各派系的鬥爭，從而舉證毛澤東作為超凡領袖的失敗，無力以個人影響力控制文革的過程。本書打破了文革參與者「受蒙蔽」、盲目追隨毛澤東的流行觀念，證明在重大歷史事件中，不管參與者自身是否認識到，他們的行為大多是理性的，即使具有超凡魅力的領袖也難以左右。</p>",
+        "id": 72
+    },
+    {
+        "book": "<p>顾准文集</p>",
+        "publisher": "<p>贵州人民出版社</p>",
+        "author": "顾准",
+        "isbn": "<p><a href=\"https://b-ok.cc/book/5407850/862bf3\">9787221034267</a></p>",
+        "id": 73
+    },
+    {
+        "book": "<p>美國華人史：十九世紀至二十一世紀初</p>",
+        "publisher": "<p>远足文化</p>",
+        "author": "张纯如",
+        "isbn": "<p><a href=\"https://b-ok.cc/book/5335277/fbaac5\">9578630816</a></p>",
+        "reason": "<p>《美国华人史》是一个离散飘泊、横跨一百五十年的史诗故事。每个年代都有许多华人离开故乡，为了追求更好的生活来到异国，有的前往美国落地生根。在十九世纪中叶华人开始大举迁居，当时年轻的美国仍百废待兴，今天能有这番成就，相当程度上是因为华人移民在获得美国收留后，在各个领域都有所贡献。</p>",
+        "id": 74
+    },
+    {
+        "book": "<p>法國高中生哲學讀本（全五冊套書）</p>",
+        "publisher": "<p>大家出版社</p>",
+        "author": "Blanche Robert等",
+        "isbn": "<p>9789869274173</p>",
+        "reason": "<p>法國高中生哲學讀本（全五冊套書）思考主體、道德、政治、文化、理性與真實的啟蒙之路z-lib<a href=\"https://b-ok.cc/s/?q=%E6%B3%95%E5%9C%8B%E9%AB%98%E4%B8%AD%E7%94%9F%E5%93%B2%E5%AD%B8%E8%AE%80%E6%9C%AC\">下載地址</a></p>",
+        "id": 75
+    },
+    {
+        "book": "<p>千名中國右派處理結論和個人檔案</p>",
+        "publisher": "<p>国史出版社</p>",
+        "author": "宋永毅",
+        "isbn": "<p>9781630327187</p>",
+        "reason": "<p>在毛泽东时代，对历次政治运动中的打击对象的处理结论，一直是极端内部乃至机密的档案材料。不仅一般的老百姓无法看到，连那些当时被斗争、被处理、甚至被赶到穷山恶沟里“劳改”、“劳教”的“右派分子”们，也可能从来没有看到。不少“右派分子”，一直到上个世纪80年代初中共给全国绝大多数“右派”平反时，才发现自己的档案里原来还有一份如此严厉的处理结论。中共中央监察委员会办公厅在1958-1960年间出版过五卷本的《关于清除党内右派分子的决定汇编》（绝密文件），共收集了党内13级以上高级干部中的“右派分子”和“反党反社会主义分子”的处理档案285份。其中有39人是省一级高干，对他们的定案大都是“反党集团”。除了各省市的“反党集团”，中央各部委中也揪出了不少“右派集团”和“反党反社会主义联盟”。在毛泽东时代越是被冠以“内部”和“机密”的档案，它们所揭示的历史真相就越深，真实性也越大。我们搜集了当年对右派分子的近千份处理结论，分为六册出版，从这里确实可以见一斑而窥历史全豹。</p>",
+        "id": 76
+    },
+    {
+        "book": "<p>古老的罪恶: 全国妇女大拐卖纪实</p>",
+        "publisher": "<p>浙江文艺出版社</p>",
+        "author": "谢致红, 贾鲁生",
+        "isbn": "<p><url=\"https://b-ok.cc/book/19095901/54a0bd\">9787533901714</url></p>",
+        "reason": "<p>本书是一部长篇纪实文学,反映了八十年代中国发生的买卖妇女的问题https://b-ok.cc/book/19095901/54a0bd</p>",
+        "id": 77
+    },
+    {
+        "book": "<p>被拐卖婚迁妇女访谈实录</p>",
+        "publisher": "<p>社会科学文献出版社</p>",
+        "author": "王金玲 主编；姜佳将；高雪玉 副主编",
+        "isbn": "<p><url=\"https://b-ok.cc/book/11965186/6fa338\">9787520123341</url></p>",
+        "reason": "<p>《被拐卖妇女口述史》主要是通过对30多位云南/广西籍被拐卖、拐骗到华东五省成婚，或成为性服务者、廉劳动力等的妇女的访谈，反映今天拐卖、拐骗现象的特征。书稿呈现了被拐卖、拐骗妇女的生活实况，以使社会更全面和深入地了解这一人群。https://b-ok.cc/book/11965186/6fa338</p>",
+        "id": 78
+    },
+    {
+        "book": "<p>中国知青史 大潮 1966-1980</p>",
+        "publisher": "<p>中国社会科学出版社</p>",
+        "author": "刘小萌",
+        "isbn": "<p><a href=\"https://b-ok.cc/book/5490718/18aa3e\">9787500421887</a></p>",
+        "reason": "<p>作者简介：刘小萌，史学博士。1952年生于北京。1968年赴内蒙古牧区插队。1973年转回河北原籍，后上技校，当工人。1978年考入大学。现为北京大学社会与发展研究中心兼职研究员，中国社会科学院近代史所研究员。邱新睦, <a href=\"https://www.modernchinastudies.org/us/issues/past-issues/111-mcs-2003-issue-4/1321-2012-01-06-10-04-09.html\">“知识青年上山下乡”研究综述</a></p>",
+        "id": 79
+    },
+    {
+        "book": "<p>血紅的土地：中共土改採訪錄</p>",
+        "publisher": "<p>亞太政治哲學文化出版有限公司</p>",
+        "author": "譚松",
+        "isbn": "<p>9789869692113</p>",
+        "reason": "<p>土改是中共統治史上一次幾乎被遺忘的大屠殺，記錄和研究土改的人，比記錄和研究反右、文革、六四等事件的人還少。反右運動中受到迫害的對象多半是知識分子，倖存者有言說的能力，有大量的文字資料存留下來；文革中受到衝擊的很多是官僚及知識分子，文革後相當一部分人恢復了原有的地位，可以有限度地對文革展開「控訴」；而六四屠殺的場景，不僅西方記者當下即有詳細記錄，流亡的知識分子和學生領袖以及「天安門母親」群體也都在孜孜不倦地記錄和言說。與之相比，譚松在採訪過程中發現，很多土改的受害者及家人仍深陷於恐懼之中：「恐懼，已經內化為個體內在的自動控制程序，一提到那段歷史，無論是在窮鄉僻壤，還是在都市密室，程序自動啟用防『洩密』功能，讓陌生的訪問者無機可乘。」<a href=\"https://b-ok.cc/book/3679946/93f251\">电子书</a></p>",
+        "id": 80
+    },
+    {
+        "book": "<p>李锐口述往事</p>",
+        "publisher": "<p>大山文化出版社</p>",
+        "author": "丁冬, 李南央",
+        "isbn": "<p>unknown</p>",
+        "reason": "<p><a href=\"https://b-ok.cc/book/17566332/c8379e\">下载地址</a></p>",
+        "id": 81
+    },
+    {
+        "book": "<p>李锐口述往事</p>",
+        "publisher": "<p>大山文化出版社</p>",
+        "author": "丁冬, 李南央",
+        "isbn": "<p>9881609798</p>",
+        "reason": "<p><a href=\"https://b-ok.cc/book/17566332/c8379e\">下载地址</a></p>",
+        "id": 82
+    }
+]

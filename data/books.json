@@ -599,5 +599,12 @@
         "isbn": "<p>9881609798</p>",
         "reason": "<p><a href=\"https://b-ok.cc/book/17566332/c8379e\">下载地址</a></p>",
         "id": 82
+    },
+    {
+        "book": "",
+        "publisher": "",
+        "author": "李锐",
+        "isbn": "",
+        "id": 83
     }
 ]
